@@ -79,7 +79,7 @@ body {
   padding: 1rem;
   /* background-color: red; */
   max-height: 3.6rem;
-  overflow-x: scroll;
+  overflow-y: scroll;
 }
 
 .program-tags a {
